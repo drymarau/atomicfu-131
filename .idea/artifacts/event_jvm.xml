@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="event-jvm">
+    <output-path>$PROJECT_DIR$/event/build/libs</output-path>
+    <root id="archive" name="event-jvm.jar">
+      <element id="module-output" name="event_jvmMain" />
+    </root>
+  </artifact>
+</component>

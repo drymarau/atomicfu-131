@@ -1,0 +1,3 @@
+rootProject.name='atomicfu'
+include ':app'
+include ':event'
